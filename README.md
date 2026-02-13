@@ -2,9 +2,11 @@
 
 This is a template repository for storing your personal context data used by [ctx4.ai](https://ctx4-ai.vercel.app/).
 
+=> [Copy this repo!](https://github.com/new?template_owner=dubzdubz&template_name=ctx4-data-template&visibility=private&name=private-ctx4-data)
+
 ## Getting Started
 
-1. Click "Use this template" to create your own context repository. **Make it private!**.
+1. Use link above or click "Use this template" to create your own context repository. **Make it private!**.
 2. Sign up at [ctx4.ai](https://ctx4-ai.vercel.app/) and connect this repository
 3. (Optional) Customize the files in this repository to add your personal context, preferences, and knowledge
 4. Your AI assistant will use this context to provide more personalized and relevant help
